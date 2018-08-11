@@ -1,0 +1,26 @@
+button {
+	position: relative;
+}
+button.answerchoice {
+	display: none;
+}
+
+h1, h2, h3, .question {
+	text-align: center;
+}
+
+.han {
+	background-image: url("../images/Han.jpg");
+	background-position: center;
+	background-size: 110%;
+} 
+.answers {
+	margin: 100px 20px 20px 20px;
+}
+.tron { 
+	opacity: .8;
+}
+
+#center {
+	text-align: center
+}
